@@ -1,0 +1,10 @@
+com\documentosbrasileiros\documentos\cnpj\CNPJ.class
+com\documentosbrasileiros\documentos\cnpj\CNPJInvalidoException.class
+com\documentosbrasileiros\documentos\cpf\CPFInvalidoException.class
+com\documentosbrasileiros\documentos\TipoDeDocumento$1.class
+com\documentosbrasileiros\documentos\DocumentoInterface.class
+com\documentosbrasileiros\documentos\TipoDeDocumento.class
+com\documentosbrasileiros\documentos\DocumentoInvalidoException.class
+com\documentosbrasileiros\DocumentosBrasileiros.class
+com\documentosbrasileiros\documentos\cpf\CPF.class
+com\documentosbrasileiros\documentos\TipoDeDocumento$2.class
